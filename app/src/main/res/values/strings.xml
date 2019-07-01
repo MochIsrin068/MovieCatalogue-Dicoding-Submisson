@@ -1,0 +1,234 @@
+<resources>
+    <string name="app_name">MovieCatalogue</string>
+    <string name="name_heroes">Nama Pahlawan</string>
+    <string name="lorem">Description</string>
+    <string name="date">d/m/y</string>
+    <string name="dateDetail">date</string>
+    <string name="description">description</string>
+    <string name="title">TITLE</string>
+    <string name="poster">poster</string>
+    <string name="director">Director</string>
+    <string name="screen_play">Screen Play</string>
+    <string name="actor">ACTOR</string>
+    <string name="overview">OVERVIEW</string>
+    <string name="photoactor">photoActor</string>
+    <string name="nameactor1">nameActor1</string>
+    <string name="nameactor2">nameActor2</string>
+    <string name="nameactor3">nameActor3</string>
+    <string name="movie_name">Movie Name</string>
+
+    <!--HANDLE MOVIE NAME-->
+    <string-array name="data_name">
+        <item>A Star Is Born</item>
+        <item>Aquaman</item>
+        <item>Avengers: Infinity War</item>
+        <item>Bird Box</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Bumblebee</item>
+        <item>Creed II</item>
+        <item>Once Upon a Deadpool</item>
+        <item>Venom</item>
+        <item>Mary Poppins Returns</item>
+        <item>Glass</item>
+        <item>Hunter Killer</item>
+    </string-array>
+
+    <!--HANDLE DATA MOVIE DATE-->
+    <string-array name="data_date">
+        <item>October 5, 2018</item>
+        <item>December 21, 2018</item>
+        <item>April 27, 2018</item>
+        <item>November 12, 2018</item>
+        <item>November 2, 2018</item>
+        <item>December 21, 2018</item>
+        <item>November 21, 2018</item>
+        <item>May 10, 2018</item>
+        <item>October 5, 2018</item>
+        <item>December 19, 2018</item>
+        <item>April 27, 2018</item>
+        <item>October 26, 2018</item>
+    </string-array>
+
+    <!--HANDLE DIRECTOR-->
+    <string-array name="data_dir1">
+        <item>Bradley Cooper</item>
+        <item>James Wan</item>
+        <item>Joe Russo</item>
+        <item>Susanne Bier</item>
+        <item>Bryan Singer</item>
+        <item>Travis Knight</item>
+        <item>Steven Caple Jr.</item>
+        <item>David Leitch</item>
+        <item>Ruben Fleischer</item>
+        <item>Rob Marshall</item>
+        <item>M. Night Shyamalan</item>
+        <item>Donovan Marsh</item>
+    </string-array>
+
+    <string-array name="data_dir2">
+        <item>""</item>
+        <item>""</item>
+        <item>Anthony Russo</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+    </string-array>
+
+    <!--HANDLE SCREENPLAY-->
+    <string-array name="data_sc1">
+        <item>Will Fetters</item>
+        <item>Will Beall</item>
+        <item>Stephen McFeely</item>
+        <item>Eric Heisserer</item>
+        <item>Anthony McCarten</item>
+        <item>Christina Hodson</item>
+        <item>Juel Taylor</item>
+        <item>Paul Wernick</item>
+        <item>Kelly Marcel</item>
+        <item>David Magee</item>
+        <item>M. Night Shyamalan</item>
+        <item>Jamie Moss</item>
+    </string-array>
+
+    <string-array name="data_sc2">
+        <item>Eric Roth</item>
+        <item>David Leslie Johnson-McGoldrick</item>
+        <item>Christopher Markus</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>Sylvester Stallone</item>
+        <item>""</item>
+        <item>Jeff Pinkner</item>
+        <item>""</item>
+        <item>""</item>
+        <item>Arne Schmidt</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>"Seasoned musician Jackson Maine discover and falls in love with struggling artist Ally. She has just about given up on her dream to make it big as a singer until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons."</item>
+        <item>"Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm's half-human, half-Atlantean brother and true heir to the throne."</item>
+        <item>"As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain."</item>
+        <item>"Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety."</item>
+        <item>"Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess."</item>
+        <item>"On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug."</item>
+        <item>"Between personal obligations and training for his next big fight against an opponent with ties to his family's past, Adonis Creed is up against the challenge of his life."</item>
+        <item>"A kidnapped Fred Savage is forced to endure Deadpool's PG-13 rendition of Deadpool 2 as a Princess Bride-esque story that's full of magic, wonder and zero F's."</item>
+        <item>"Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own."</item>
+        <item>"In Depression-era London, a now-grown Jane and Michael Banks, along with Michael's three children, are visited by the enigmatic Mary Poppins following a personal loss. Through her unique magical skills, and with the aid of her friend Jack, she helps the family rediscover the joy and wonder missing in their lives."</item>
+        <item>"In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men."</item>
+        <item>"Captain Glass of the USS Arkansas discovers that a coup d'état is taking place in Russia, so he and his crew join an elite group working on the ground to prevent a war."</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_venom</item>
+        <item>@drawable/poster_marrypopins</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_hunterkiller</item>
+    </array>
+
+    <array name="actor1">
+        <item>@drawable/lady</item>
+        <item>@drawable/aquaman_actor1</item>
+        <item>@drawable/avg_actor1</item>
+        <item>@drawable/bird_actor1</item>
+        <item>@drawable/boh_actor1</item>
+        <item>@drawable/bum_actor1</item>
+        <item>@drawable/creed_actor1</item>
+        <item>@drawable/dead_actor1</item>
+        <item>@drawable/venom_actor1</item>
+        <item>@drawable/mary_actor1</item>
+        <item>@drawable/glass_actor1</item>
+        <item>@drawable/hk_actor1</item>
+    </array>
+
+    <array name="actor2">
+        <item>@drawable/bradley</item>
+        <item>@drawable/aquaman_actor2</item>
+        <item>@drawable/avg_actor2</item>
+        <item>@drawable/bird_actor2</item>
+        <item>@drawable/boh_actor2</item>
+        <item>@drawable/bum_actor2</item>
+        <item>@drawable/creed_actor2</item>
+        <item>@drawable/dead_actor2</item>
+        <item>@drawable/venom_actor2</item>
+        <item>@drawable/mary_actor2</item>
+        <item>@drawable/glass_actor2</item>
+        <item>@drawable/hk_actor2</item>
+    </array>
+
+    <array name="actor3">
+        <item>@drawable/sam</item>
+        <item>@drawable/aquaman_actor3</item>
+        <item>@drawable/avg_actor3</item>
+        <item>@drawable/bird_actor3</item>
+        <item>@drawable/boh_actor3</item>
+        <item>@drawable/bum_actor3</item>
+        <item>@drawable/creed_actor3</item>
+        <item>@drawable/dead_actor3</item>
+        <item>@drawable/venom_actor3</item>
+        <item>@drawable/mary_actor3</item>
+        <item>@drawable/glass_actor3</item>
+        <item>@drawable/hk_actor3</item>
+    </array>
+
+    <!--FOR ACTOR NAME DATA-->
+    <string-array name="data_name_actor1">
+        <item>Lady Gaga</item>
+        <item>Jason Momoa</item>
+        <item>Robert Downey Jr.</item>
+        <item>Sandra Bullock</item>
+        <item>Rami Malek</item>
+        <item>Hailee Steinfeld</item>
+        <item>Michael B. Jordan</item>
+        <item>Ryan Reynolds</item>
+        <item>Tom Hardy</item>
+        <item>Emily Blunt</item>
+        <item>James McAvoy</item>
+        <item>Gerard Butler</item>
+    </string-array>
+
+    <string-array name="data_name_actor2">
+        <item>Bradley Cooper</item>
+        <item>Amber Heard</item>
+        <item>Chris Hemsworth</item>
+        <item>Trevante Rhodes</item>
+        <item>Gwilym Lee</item>
+        <item>Jorge Lendeborg Jr.</item>
+        <item>Sylvester Stallone</item>
+        <item>Fred Savage</item>
+        <item>Michelle Williams</item>
+        <item>Lin-Manuel Miranda</item>
+        <item>Bruce Willis</item>
+        <item>Gary Oldman</item>
+    </string-array>
+
+    <string-array name="data_name_actor3">
+        <item>Sam Elliott</item>
+        <item>Willem Dafoe</item>
+        <item>Chris Evans</item>
+        <item>John Malkovich</item>
+        <item>Ben Hardy</item>
+        <item>John Cena</item>
+        <item>Dolph Lundgren</item>
+        <item>Josh Brolin</item>
+        <item>Riz Ahmed</item>
+        <item>Ben Whishaw</item>
+        <item>Samuel L. Jackson</item>
+        <item>Toby Stephens</item>
+    </string-array>
+</resources>
